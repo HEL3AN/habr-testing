@@ -1,0 +1,4 @@
+пример/
+*.docx
+.DS_Store
+Thumbs.db
